@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               ZP's Code Blog
+tagline:             Bragging about code and tech findings...
+url:                 http://zepinto.github.io/blog
 paginate:            1
 baseurl:             ""
 
@@ -21,10 +21,10 @@ sass:
 # About/contact
 author:
   name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               http://zepinto.info
+  email:             zepinto@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/zepinto/poole
