@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               ZP's Code Blog
 tagline:             Bragging about code and tech findings...
-url:                 http://zepinto.github.io/blog
+url:                 http://zepinto.github.io/poole
 paginate:            1
 baseurl:             ""
 
